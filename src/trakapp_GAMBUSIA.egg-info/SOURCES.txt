@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+src/trak/__init__.py
+src/trak/__main__.py
+src/trak/afile.py
+src/trak/core_methods.py
+src/trak/project.py
+src/trak/session.py
+src/trakapp_GAMBUSIA.egg-info/PKG-INFO
+src/trakapp_GAMBUSIA.egg-info/SOURCES.txt
+src/trakapp_GAMBUSIA.egg-info/dependency_links.txt
+src/trakapp_GAMBUSIA.egg-info/top_level.txt
