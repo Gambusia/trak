@@ -2,9 +2,8 @@ LICENSE
 MANIFEST.in
 README.md
 pyproject.toml
-setup.cfg
+setup.py
 src/trak/__init__.py
-src/trak/__main__.py
 src/trak/afile.py
 src/trak/core_methods.py
 src/trak/project.py
@@ -12,4 +11,6 @@ src/trak/session.py
 src/trak.egg-info/PKG-INFO
 src/trak.egg-info/SOURCES.txt
 src/trak.egg-info/dependency_links.txt
+src/trak.egg-info/entry_points.txt
+src/trak.egg-info/requires.txt
 src/trak.egg-info/top_level.txt

@@ -4,7 +4,7 @@ import os
 import os.path
 import re
 from pathlib import Path
-from project import Project
+from trak.project import Project
 
 projects_path = Path(__file__).parent / "../data/projects.dat"
 sessions_path = Path(__file__).parent / "../data/sessions.dat"

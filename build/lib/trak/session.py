@@ -5,10 +5,10 @@ import os
 import os.path
 from pathlib import Path
 
-from project import Project
+from trak.project import Project
 from tabulate import tabulate
 
-from afile import File
+from trak.afile import File
 
 projects_path = Path(__file__).parent / "../data/projects.dat"
 tracked_data_path = Path(__file__).parent / "../data/trackdata.dat"
