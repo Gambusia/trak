@@ -2,11 +2,11 @@ Metadata-Version: 2.1
 Name: trak-CHAOBORID
 Version: 0.0.1
 Summary: A simple tool for tracking writing progress
-Home-page: https://github.com/gambusia/trakapp
+Home-page: https://github.com/gambusia/trak
 Author: Greg Pyle
 Author-email: chaoborid@gmail.com
 License: UNKNOWN
-Project-URL: Bug Tracker, https://github.com/gambusia/trakapp/issues
+Project-URL: Bug Tracker, https://github.com/gambusia/trak/issues
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
