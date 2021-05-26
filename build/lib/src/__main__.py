@@ -9,9 +9,9 @@ import uuid
 from pathlib import Path
 
 from tabulate import tabulate
-from trak import core_methods
-from trak.project import Project
-from trak.session import Session
+from src.trak import core_methods
+from src.trak.project import Project
+from src.trak.session import Session
 #from project import Project
 #from session import Session
 

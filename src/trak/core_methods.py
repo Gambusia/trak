@@ -4,8 +4,8 @@ import os
 import os.path
 import datetime
 from pathlib import Path
-from trak.afile import File
-from trak.session import Session
+from src.trak.afile import File
+from src.trak.session import Session
 
 projects_path = Path(__file__).parent / "../data/projects.dat"
 trackdata_path = Path(__file__).parent / "../data/trackdata.dat"
