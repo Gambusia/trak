@@ -1,0 +1,16 @@
+LICENSE
+README
+pyproject.toml
+setup.py
+src/__init__.py
+src/__main__.py
+src/trak/__init__.py
+src/trak/afile.py
+src/trak/core_methods.py
+src/trak/project.py
+src/trak/session.py
+trak.egg-info/PKG-INFO
+trak.egg-info/SOURCES.txt
+trak.egg-info/dependency_links.txt
+trak.egg-info/entry_points.txt
+trak.egg-info/top_level.txt

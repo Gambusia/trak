@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: trak
-Version: 0.0.1
+Version: 0.0.8
 Summary: A simple tool for tracking writing progress
 Home-page: https://github.com/Gambusia/trak
 Author: Greg Pyle
@@ -10,8 +10,6 @@ Project-URL: Source, https://github.com/Gambusia/trak
 Keywords: writing,progress tracking,utility
 Platform: UNKNOWN
 Classifier: Development Status :: 4 - Beta
-Classifier: Intended Audience :: Writers
-Classifier: Topic :: writing :: progress tracking
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Programming Language :: Python :: 3
 Requires-Python: >=3.8, <4
