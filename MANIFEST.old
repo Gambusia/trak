@@ -1,2 +1,0 @@
-include README LICENSE
-recursive-include src *.py *.dat
