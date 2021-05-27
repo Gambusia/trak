@@ -191,6 +191,15 @@ def main():
         sys.exit()
 
     if args.record:
+        
+        # Test to make sure there are data for which records can be estblished 
+        number_of_tracks = len(open(trackdata_path).readlines())
+        if number_of_tracks == 0:
+            if os.path.exists(tmp_path):
+                os.remove(tmp_path)
+            print("No tracks have been recorded; no records can be displayed.")
+            sys.exit()
+
         r_list = [['Total number of words tracked', core_methods.n_words()],
                   ['Total number of sessions tracked', core_methods.n_sessions()],
                   ['Total number of modified files', core_methods.n_files()]]
