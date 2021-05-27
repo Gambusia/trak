@@ -8,7 +8,7 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name="trak",
-    version="0.1.1",
+    version="0.1.2",
     author="Greg Pyle",
     author_email="chaoborid@gmail.com",
     description="A simple writing-progress tracking tool for plain text files",
