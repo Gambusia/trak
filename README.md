@@ -40,8 +40,8 @@ many of the commercially available writing programs have excellent
 writing-progress tracking capabilities, there are very few such applications
 available to those of us who write in plain text files. This application,
 `trak`, is my answer to this shortcoming. Admittedly, I wrote this little
-program to meet my own personal tracking needs. But if you might find it useful
-(and I hope you do), please feel free to use it.
+program to meet my own personal tracking needs. But if you think you might find
+it useful (and I hope you do), please feel free to use it.
 
 To use `trak` simply type `trak` on the command line to initiate a tracking
 session. Upon its first invocation, it won't do much.
@@ -135,7 +135,7 @@ Therefore, there is little need to delete a file from tracking.
 
 However, in the event that you do want to stop monitoring a file, you can ignore
 it by using the `-d` option with the argument 'file' to indicate that you want
-to 'delete' (or, more appropriately, ignore) a file. You will be asked to make a
+to 'delete' (or, more appropriately, _ignore_) a file. You will be asked to make a
 selection among the files belonging to one of the tracked projects. 
 
 ```
@@ -183,6 +183,7 @@ $ trak -d ignore
 Select a file to stop ignoring [0-0]: 0
 The file /Path/to/mytexfile.tex in project my_new_project will now be tracked
 ``` 
+
 One of the reasons I wanted a writing tracker was to keep track of things like
 my longest writing session, or most words written during a writing session, or
 longest daily writing streak. You can access all of that by invoking the `-r`
